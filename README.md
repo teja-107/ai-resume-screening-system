@@ -39,19 +39,19 @@ Tech Stack
 - Uvicorn – ASGI server  
 
 Key Learnings
-1.NLP text preprocessing and normalization
-2.Skill extraction from unstructured text
-3.Rule-based vs AI-based matching approaches
-4.Semantic similarity using TF-IDF and cosine similarity
-5.Building and exposing ML logic using FastAPI
-6.Designing explainable AI systems
+- NLP text preprocessing and normalization
+- Skill extraction from unstructured text
+- Rule-based vs AI-based matching approaches
+- Semantic similarity using TF-IDF and cosine similarity
+- Building and exposing ML logic using FastAPI
+- Designing explainable AI systems
 
 Future Improvements
-1.Resume file upload (PDF/DOC) via API
-2.Database integration for storing results
-3.Weight tuning for scoring logic
-4.Frontend interface for recruiters
-5.Cloud deployment (AWS / Render)
+- Resume file upload (PDF/DOC) via API
+- Database integration for storing results
+- Weight tuning for scoring logic
+- Frontend interface for recruiters
+- Cloud deployment (AWS / Render)
 
 
 
